@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="prototipagem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54876543"
+     inkscape:cx="793.59955"
+     inkscape:cy="570.3712"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="73.064201"
+       height="136.73425"
+       x="12.083082"
+       y="15.600423" />
+    <ellipse
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="path685"
+       cx="50.654015"
+       cy="44.680466"
+       rx="15.116478"
+       ry="15.693254" />
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="rect1621"
+       width="63.617714"
+       height="11.919647"
+       x="17.524666"
+       y="69.667824"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="30.690813"
+       y="77.421303"
+       id="text1077"><tspan
+         sodipodi:role="line"
+         id="tspan1075"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="30.690813"
+         y="77.421303">Agendar compromisso</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="rect1739"
+       width="63.617714"
+       height="11.919647"
+       x="17.524666"
+       y="89.508621"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="30.690813"
+       y="97.2621"
+       id="text1743"><tspan
+         sodipodi:role="line"
+         id="tspan1741"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="30.690813"
+         y="97.2621">Ver compromissos</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="rect2891"
+       width="63.617714"
+       height="11.919647"
+       x="17.524666"
+       y="108.28266"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="24.428196"
+       y="115.24821"
+       id="text2895"><tspan
+         sodipodi:role="line"
+         id="tspan2893"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="24.428196"
+         y="115.24821">Compromissos urgentes</tspan></text>
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect9798"
+       width="73.064201"
+       height="136.73425"
+       x="97.680542"
+       y="15.600423" />
+    <ellipse
+       style="fill:#4d4d4d;stroke-width:0.109114"
+       id="ellipse9800"
+       cx="108.82427"
+       cy="28.459467"
+       rx="6.2340107"
+       ry="6.4718723" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.224523"
+       id="rect9802"
+       width="63.617714"
+       height="8.5834131"
+       x="103.80965"
+       y="52.206501"
+       ry="1.828741" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="118.8336"
+       y="29.925909"
+       id="text9806"><tspan
+         sodipodi:role="line"
+         id="tspan9804"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="118.8336"
+         y="29.925909">Agendar compromisso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="103.35035"
+       y="49.394138"
+       id="text9812"><tspan
+         sodipodi:role="line"
+         id="tspan9810"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="103.35035"
+         y="49.394138">Nome</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="rect9814"
+       width="63.617714"
+       height="11.919647"
+       x="102.83072"
+       y="132.96532"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="126.61102"
+       y="141.03177"
+       id="text9818"><tspan
+         sodipodi:role="line"
+         id="tspan9816"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="126.61102"
+         y="141.03177">Agendar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="103.35035"
+       y="68.444153"
+       id="text11112"><tspan
+         sodipodi:role="line"
+         id="tspan11110"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="103.35035"
+         y="68.444153">Tipo de compromisso</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:0.224523"
+       id="rect14440"
+       width="63.617714"
+       height="8.5834131"
+       x="103.80965"
+       y="72.045456"
+       ry="1.828741" />
+    <path
+       style="fill:#4d4d4d;stroke:#808080;stroke-width:0.194914px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.7903,72.587163 v 7.139321"
+       id="path14475" />
+    <path
+       id="rect14579"
+       style="fill:#666666;stroke-width:0.0914756"
+       d="m 157.41348,73.922268 3.69722,5.396255 c 0.28471,0.415519 0.74298,0.415141 1.0275,-6.27e-4 l 3.6922,-5.395607 z" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.106636"
+       id="rect14956"
+       width="14.350274"
+       height="8.5834131"
+       x="104.86681"
+       y="89.190651"
+       ry="1.828741" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="103.34525"
+       y="86.990219"
+       id="text14960"><tspan
+         sodipodi:role="line"
+         id="tspan14958"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="103.34525"
+         y="86.990219">Data</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:0.224523"
+       id="rect16285"
+       width="63.617714"
+       height="8.5834131"
+       x="103.80965"
+       y="52.206501"
+       ry="1.828741" />
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.264583"
+       id="rect16309"
+       width="62.232285"
+       height="23.475494"
+       x="103.25554"
+       y="104.83375"
+       ry="1.8287418" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="103.34525"
+       y="102.86523"
+       id="text16411"><tspan
+         sodipodi:role="line"
+         id="tspan16409"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="103.34525"
+         y="102.86523">Detalhes</tspan></text>
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect18135"
+       width="73.064201"
+       height="136.73425"
+       x="178.68439"
+       y="15.600423" />
+    <ellipse
+       style="fill:#4d4d4d;stroke-width:0.109114"
+       id="ellipse18137"
+       cx="189.82811"
+       cy="28.459467"
+       rx="6.2340107"
+       ry="6.4718723" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.52183px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.138046"
+       x="198.15686"
+       y="30.639332"
+       id="text18143"><tspan
+         sodipodi:role="line"
+         id="tspan18141"
+         style="fill:#ffffff;stroke-width:0.138046"
+         x="198.15686"
+         y="30.639332">Compromissos</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       id="rect18149"
+       width="63.617714"
+       height="11.919647"
+       x="183.83456"
+       y="132.96532"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="207.61487"
+       y="141.03177"
+       id="text18153"><tspan
+         sodipodi:role="line"
+         id="tspan18151"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="207.61487"
+         y="141.03177">VOLTAR</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.266605"
+       id="rect18173"
+       width="66.76841"
+       height="22.216393"
+       x="179.95041"
+       y="39.076561"
+       ry="1.7306578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="45.999168"
+       id="text18157"><tspan
+         sodipodi:role="line"
+         id="tspan18155"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="45.999168">Reunião com funcionários</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="50.232506"
+       id="text21307"><tspan
+         sodipodi:role="line"
+         id="tspan21305"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="50.232506">20/01/2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="189.64558"
+       y="58.154476"
+       id="text21889"><tspan
+         sodipodi:role="line"
+         id="tspan21887"
+         style="fill:#4d4d4d;stroke-width:0.0965918"
+         x="189.64558"
+         y="58.154476">Detalhes / Editar  /   Deletar</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.266605"
+       id="rect25555"
+       width="66.76841"
+       height="22.216393"
+       x="179.95041"
+       y="64.478783"
+       ry="1.7306578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="71.399193"
+       id="text25559"><tspan
+         sodipodi:role="line"
+         id="tspan25557"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="71.399193">Reunião com funcionários</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="75.63253"
+       id="text25563"><tspan
+         sodipodi:role="line"
+         id="tspan25561"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="75.63253">20/01/2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="189.64558"
+       y="83.554497"
+       id="text25567"><tspan
+         sodipodi:role="line"
+         id="tspan25565"
+         style="fill:#4d4d4d;stroke-width:0.0965918"
+         x="189.64558"
+         y="83.554497">Detalhes / Editar  /   Deletar</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.266605"
+       id="rect25569"
+       width="66.76841"
+       height="22.216393"
+       x="179.95041"
+       y="88.822578"
+       ry="1.7306578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="95.740883"
+       id="text25573"><tspan
+         sodipodi:role="line"
+         id="tspan25571"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="95.740883">Reunião com funcionários</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="181.94746"
+       y="99.97422"
+       id="text25577"><tspan
+         sodipodi:role="line"
+         id="tspan25575"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="181.94746"
+         y="99.97422">20/01/2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="189.64558"
+       y="107.89619"
+       id="text25581"><tspan
+         sodipodi:role="line"
+         id="tspan25579"
+         style="fill:#4d4d4d;stroke-width:0.0965918"
+         x="189.64558"
+         y="107.89619">Detalhes / Editar  /   Deletar</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke:#808080;stroke-width:0.264583"
+       id="rect25605"
+       width="1.2139477"
+       height="85.395836"
+       x="248.34587"
+       y="36.471836"
+       ry="0.60697383" />
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect27963"
+       width="73.064201"
+       height="136.73425"
+       x="259.73718"
+       y="16.158878" />
+    <ellipse
+       style="fill:#4d4d4d;stroke-width:0.109114"
+       id="ellipse27965"
+       cx="270.88089"
+       cy="29.017933"
+       rx="6.2340107"
+       ry="6.4718723" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.52183px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.138046"
+       x="279.20966"
+       y="31.197788"
+       id="text27969"><tspan
+         sodipodi:role="line"
+         id="tspan27967"
+         style="fill:#ffffff;stroke-width:0.138046"
+         x="279.20966"
+         y="31.197788">Compromissos</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.162335"
+       id="rect27971"
+       width="23.948477"
+       height="11.919647"
+       x="264.88736"
+       y="133.52377"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="269.08875"
+       y="141.59024"
+       id="text27975"><tspan
+         sodipodi:role="line"
+         id="tspan27973"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="269.08875"
+         y="141.59024">VOLTAR</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.498731"
+       id="rect27977"
+       width="66.536285"
+       height="78.015686"
+       x="261.11926"
+       y="39.751087"
+       ry="2.2290847" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="263.00024"
+       y="46.557636"
+       id="text27981"><tspan
+         sodipodi:role="line"
+         id="tspan27979"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="263.00024"
+         y="46.557636">Reunião com funcionários</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="263.00024"
+       y="50.790974"
+       id="text27985"><tspan
+         sodipodi:role="line"
+         id="tspan27983"
+         style="fill:#000000;stroke-width:0.0965918"
+         x="263.00024"
+         y="50.790974">20/01/2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="264.72665"
+       y="60.501362"
+       id="text27989"><tspan
+         sodipodi:role="line"
+         id="tspan27987"
+         style="fill:#4d4d4d;stroke-width:0.0965918"
+         x="264.72665"
+         y="60.501362">Detalhes:</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke:#808080;stroke-width:0.264583"
+       id="rect28019"
+       width="1.2139477"
+       height="85.395836"
+       x="329.39865"
+       y="37.030293"
+       ry="0.60697383" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:60.7899;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="182.47662"
+       y="212.72765"
+       id="text29954"
+       transform="translate(81.052793,-146.06195)"><tspan
+         x="182.47662"
+         y="212.72765"
+         id="tspan38098">Pauta:
+</tspan><tspan
+         x="182.47662"
+         y="217.55724"
+         id="tspan38100">Aumentar produtividade;
+</tspan><tspan
+         x="182.47662"
+         y="222.38683"
+         id="tspan38102">Pontualidade;
+</tspan><tspan
+         x="182.47662"
+         y="227.21642"
+         id="tspan38104">Hora extra;
+</tspan><tspan
+         x="182.47662"
+         y="232.04601"
+         id="tspan38106">Premios e gratificações por </tspan><tspan
+         x="182.47662"
+         y="236.8756"
+         id="tspan38108">produtividade.</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.162335"
+       id="rect36320"
+       width="23.948477"
+       height="11.919647"
+       x="294.27557"
+       y="133.52377"
+       ry="2.5395429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.86367px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0965918"
+       x="298.47696"
+       y="141.59024"
+       id="text36324"><tspan
+         sodipodi:role="line"
+         id="tspan36322"
+         style="fill:#ffffff;stroke-width:0.0965918"
+         x="298.47696"
+         y="141.59024">DELETAR</tspan></text>
+  </g>
+</svg>

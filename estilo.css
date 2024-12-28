@@ -1,0 +1,320 @@
+body{
+	padding: 0;
+	margin: 0 0;
+	background-color:cadetblue;
+
+	background-image: url('img/fundo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+
+	
+
+}
+
+
+.roboto-regular {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+.container{
+	display: flex;
+	flex-direction:column;
+	width: 70vw;
+	
+	background-color:black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5vh;
+border-radius: 5px;
+	opacity: 0.9;
+	height:100%;
+	padding: 50px;
+}
+
+.detalhes{
+	display: none;
+	
+}
+.detalhes2{
+	display: flex;
+	flex-direction: column;
+	flex-direction: row-reverse;
+	border: 2px orange solid;
+	border-radius: 5px;
+	height:100px;
+	padding: 10px;
+	margin-bottom: 8px;
+
+	animation-name: cardanimado;
+	animation-duration: 2s;
+}
+
+
+.detalhes2 a{
+	height: 30px;
+	width: 30px;
+margin-left: 20px;
+padding: 2px;
+}
+
+
+@keyframes cardanimado{
+	from {height: 0px;opacity: 0;}
+	to {height: 100px;opacity: 1;}
+}
+
+.tituleira2{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	color:#fff;
+}
+.tituleira{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color:#fff;
+}
+.logo_titu{
+	display: flex;
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: orange;
+	background-image: url('img/cad_comp_ico.svg');
+	background-size: cover;
+	margin-left: 20px;
+}
+.logo_titu2{
+	background-image: url('img/agenda_ico.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	height:100px;
+	width: 100px;
+
+	border-radius: 100%;
+	background-color: orange;
+	margin-left: 20px;
+}
+
+.fm{
+
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	border-radius: 10px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+label{
+	color: #fff;
+}
+input{
+	height: 30px;
+	color:gray;
+	
+	margin-bottom: 20px;
+}
+select{
+	height: 30px;
+	color:gray;
+	
+	margin-bottom: 20px;
+}
+
+
+button{
+	height: 30px;
+	width: 200px;
+	background-color:orange;
+	color:black;
+	
+	margin-bottom: 20px;
+	
+	border: 4px;
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+textarea{
+	color:gray;
+}
+
+ul{
+	
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	
+}
+
+.lista{
+
+	width:40%;
+	height: auto;
+	background-color: lightgray;
+	padding: 15px;
+	list-style: none;
+	border: 1px gray solid;
+	border-radius: 10px;
+	margin-top: 5px;
+	margin-left: 3px;
+}
+.lista h3,p{
+	color:gray;
+}
+
+.bot_cards a {
+	background-color: orange;
+	color:#000;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 5px;
+	box-shadow: 10px;
+	margin-left: 5px;
+}
+
+.botgrupo{
+	
+	display: flex;
+	flex-direction: row;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.bot_novo  {
+	width: 120px;
+	background-color: orange;
+	color:#000;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 5px;
+	box-shadow: 10px;
+	margin-left:5vw;
+	margin-top: 20px;
+}
+
+.botao a:hover{
+	
+}
+
+
+@media (max-width:412px){
+
+
+.container{
+	width: 90vw;
+	display: flex;
+	flex-direction:column;
+	
+	
+	background-color:black;
+
+	margin-top: 10px;
+
+backdrop-filter: opacity();
+	height:100vh;
+	padding: 15px 10px;
+	padding-left: 3px;
+}
+
+
+.logo_titu2{
+	background-image: url('img/agenda_ico.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	height:50px;
+	width: 50px;
+
+	border-radius: 100%;
+	background-color: orange;
+	margin-left: 20px;
+}
+
+
+
+	.botgrupo{
+	
+	display: flex;
+	flex-direction:column;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.fm{
+width:70%;
+	display: flex;
+	flex-direction: column;
+	
+	border-radius: 10px;
+	
+}
+ul{
+	padding-left: 3px;
+}
+.lista{
+
+	width:100vw;
+	height: auto;
+	background-color: lightgray;
+	padding: 15px;
+	list-style: none;
+
+	border: 1px gray solid;
+	border-radius: 10px;
+	margin-top: 5px;
+	margin-left: 3px;
+
+}
+
+
+
+ h1{
+	font-size: 15pt;	
+}
+
+ h2{
+	font-size: 12pt;
+	color:orange;	
+
+}
+ h3{
+	font-size: 9pt;
+	color:orange;	
+
+}
+
+ p{
+	font-size: 8pt;
+
+
+
+
+}
+
+textarea{
+	height: 150px;
+}
